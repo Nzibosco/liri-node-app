@@ -45,5 +45,4 @@ enter the following code to perform such search: ```node liri-node-app do-what-i
 
 The gif attached will explain further functionalities of the application. 
 
-![GitHub Logo](liri-node-app/liri.gif)
-Format: ![Alt Text](url)
+[liri gif demo](liri-node-app/liri.gif)
