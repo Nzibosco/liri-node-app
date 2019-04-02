@@ -45,4 +45,4 @@ enter the following code to perform such search: ```node liri-node-app do-what-i
 
 The gif attached will explain further functionalities of the application. 
 
-[liri gif demo](liri-node-app/liri.gif)
+[liri gif demo](liri.gif)
